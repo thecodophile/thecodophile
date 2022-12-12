@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecodophile&show_icons=true&locale=en&layout=compact" alt="thecodophile" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thecodophile&show_icons=true&locale=en" alt="thecodophile" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thecodophile&show_icons=true&locale=en" alt="thecodophile" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecodophile&" alt="thecodophile" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecodophile&" alt="thecodophile" /></p> -->
